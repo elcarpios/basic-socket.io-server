@@ -1,4 +1,4 @@
-const Band = require('./band');
+const Band = require('./Band');
 
 class Bands {
   constructor() {
